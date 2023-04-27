@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Antoine</h1>
 <h3 align="center">Currently a web dev student who love working with JS</h3>
 
-- 🔭 I’m currently working on **BlaBla Campus**
+- 🔭 I’m currently working on **a new version of my portfolio**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Symfony**
 
 - 👨‍💻 All of my projects are available at [https://a-piron.fr](https://a-piron.fr)
 
